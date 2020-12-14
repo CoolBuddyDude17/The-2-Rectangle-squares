@@ -1,2 +1,2 @@
-# The-2-Rectangle-squares
-When You move one of the Rectangle Square.. It changes the other one's color. From Cyan to yellow, back and forth... :>
+# p5.play-boilerplate
+Boiler plate for p5.play
